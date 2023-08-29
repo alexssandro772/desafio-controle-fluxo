@@ -1,2 +1,2 @@
 # desafio-controle-fluxo
-Exemplo de resolução do desadio do controle de fluxo
+Exemplo de resolução do desafio do controle de fluxo
